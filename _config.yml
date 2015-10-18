@@ -1,0 +1,12 @@
+# Site settings
+title: TekEmperor's Blog
+email: tekemperor@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Blog of TekEmperor
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tekemperor.github.io" # the base hostname & protocol for your site
+twitter_username: tekemperor
+github_username:  tekemperor
+
+# Build settings
+markdown: kramdown
